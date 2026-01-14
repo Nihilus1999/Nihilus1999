@@ -35,9 +35,9 @@ I am deeply interested in how technology connects with real life to solve challe
 
 <div align="center">
 
-| 🗣️ Languages | 🎨 Frontend | ⚙️ Backend | 📱 Mobile |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=ts,java,dart&theme=dark" width="150" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,mui&theme=dark" width="150" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" width="150" /> | <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="50" /> |
+| 🗣️ Languages | 🎨 Frontend | ⚙️ Backend | 📱 Mobile | 🛠️ Tools |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=ts,java,dart&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,redux,nextjs,mui&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,sequelize&theme=dark" /> | <img src="https://skillicons.dev/icons?i=flutter&theme=dark" /> | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,docker,idea,git&theme=dark" /> |
 
 </div>
 
@@ -55,12 +55,10 @@ I am deeply interested in how technology connects with real life to solve challe
   <a href="mailto:josedanielelasmar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" />
   </a>
-  &nbsp;
 
   <a href="https://x.com/Nihilus1999" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="45" />
   </a>
-  &nbsp;
 
   <a href="https://www.instagram.com/nihilus1999" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45" />

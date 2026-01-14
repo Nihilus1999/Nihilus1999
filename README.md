@@ -57,12 +57,12 @@ I am deeply interested in how technology connects with real life to solve challe
   </a>
   &nbsp;
 
-  <a href="https://twitter.com/PON_TU_USUARIO_AQUI" target="_blank">
+  <a href="https://x.com/Nihilus1999" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="45" />
   </a>
   &nbsp;
 
-  <a href="https://instagram.com/PON_TU_USUARIO_AQUI" target="_blank">
+  <a href="https://www.instagram.com/nihilus1999" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45" />
   </a>
 
